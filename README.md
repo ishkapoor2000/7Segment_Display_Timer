@@ -11,6 +11,6 @@ This device can set a timer from 0-9. And on (pressing) start, the timer decreme
 | StimerBbutton<br>SstartTimerBbutton 	|     2    	| Pushbutton                	|
 | PIEZO1                              	|     1    	| Piezo                     	|
 
-![Snapshot of Circuit](/Circuit.jpeg "VR session closed screen")
+![Snapshot of Circuit](/Circuit.jpeg "Snapshot of 7 Segment Display Timer")
 
 ## Visualize [here](https://www.tinkercad.com/things/54BY7iYxYZ4-7-segment-display-0-9-timer).
